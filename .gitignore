@@ -2,3 +2,6 @@ log/
 .github/
 local-*.ps1
 *.csv
+venv/
+__pycache__/
+*.pyc
