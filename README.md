@@ -2,6 +2,11 @@
 
 本專案提供從標準 GitHub Enterprise Cloud (GHEC) 遷移至 GitHub Enterprise Managed Users (EMU) 環境的自動化腳本與指導文件，協助組織實現集中式身份管理、強化安全性與合規性。
 
+## 主要功能
+- **遷移生命週期指導**：涵蓋從探索、準備、執行到驗證的完整遷移流程。
+- **自動化腳本**：提供 PowerShell 與 Shell 版本的腳本，協助完成儲存庫盤點、遷移執行與 Mannequin 認領等任務。
+- **風險降低策略**：採用分群組逐步遷移
+
 ## 專案結構
 
 ```
