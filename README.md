@@ -17,6 +17,7 @@
 
 ## 測試
 - 手動加入 branch protection rule setup 的測試，確保腳本能正確辨識並處理受保護的分支。
+- 啟用 branch protection
 
 ## 專案結構
 
